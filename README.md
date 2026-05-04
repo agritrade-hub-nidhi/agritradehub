@@ -2,9 +2,9 @@
 A MERN Stack Based E-Marketplace for Farmers & Merchants
 
 ## Team Members
-1. Mukesh Gupta - 2203600100071
+1. Mukesh Gupta - 2203600100069
 2. Dhiraj Singh - 2203600100038  
-3. Nidhi Shukla - 2203600100075
+3. Nidhi Shukla - 2203600100071
 4. Roshni Soni - 2203600100095
 
 ## Guide
